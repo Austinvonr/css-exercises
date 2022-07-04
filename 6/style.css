@@ -1,0 +1,35 @@
+* {
+    font-family:Helvetica, sans-serif;
+}
+
+.para {
+    color: red;
+    font-size: 24px;
+}
+
+.para-small-para {
+    color: red;
+    font-size: 18px;
+}
+
+#confirm {
+    background-color: green;
+    color: white;
+    font-size: 32px;
+}
+
+#cancel {
+    background-color: white;
+    color: black;
+    font-size: 32px;
+}
+
+.text {
+    color: green;
+    font-size: 32px;
+}
+
+.child {
+    color: red;
+    font-size: 20px;
+}
