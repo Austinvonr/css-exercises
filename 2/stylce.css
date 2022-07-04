@@ -1,0 +1,22 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.first {
+    background-color: lightcoral;
+    font-size: 24px;
+}
+#second {
+    color: blue;
+    font-size: 36px;
+}
+
+body .third {
+    background-color: lightcoral;
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
